@@ -1,0 +1,17 @@
+{
+  "name": "TypeScript-Nodejs-GitHubApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "tsc && node out/index.js"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.149",
+    "@types/request": "^2.48.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "request": "^2.88.2"
+  }
+}
